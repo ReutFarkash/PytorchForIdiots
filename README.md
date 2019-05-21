@@ -2,8 +2,8 @@
 ----
 <p align="center">
     <center><h1> Pytorch For Idiots</h1></center>
-    <center><h1> https://github.com/ypeleg/PytorchForIdiots </h1></center>
     <center> <h3> The simplest tutorial ever!</h3></center>
+    <center><h5> https://github.com/ypeleg/PytorchForIdiots </h5></center>
     <ar>
 <img src="data/inder.jpg" width="60%">
 </p>
